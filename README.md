@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonwee)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonwee&theme=radical)
